@@ -37,12 +37,12 @@
 </div>
 <div style="text-align: left;">
     <h2>💡 Portfolio </h2>
-    <div>😎<a style="font-size: 25px;" href="https://bit.ly/3K443HT">포트폴리오</a></div>
+    <div>😎<a style="font-size: 25px;" href="https://www.notion.so/Portfolio-2006e1a0959280619b78dd083f38c89a?pvs=4">포트폴리오</a></div>
 </div>
 <div style="text-align: left;">
     <h2>📝 Projects </h2>
-    <div>🍔<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/FOOD114">Kapture</a></div>
-    <div>🥰<a style="font-size: 25px;" href="https://github.com/vvyejivv/wooki.git">ReactGram</a></div>
+    <div>🍔<a style="font-size: 25px;" href="https://github.com/Taehun92/Project_Kapture">Kapture</a></div>
+    <div>🥰<a style="font-size: 25px;" href="https://github.com/leejh8997/react_project">ReactGram</a></div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
