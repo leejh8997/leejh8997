@@ -48,11 +48,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="text-align: left;">
       <img src="https://github-readme-stats.vercel.app/api?username=leejh8997&show_icons=true&theme=default&cache_seconds=0"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejh8997&layout=compact"/>
       <br/>
       <!-- GitHub Readme Streak Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997&theme=default" />
-      
-        
-        
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejh8997&layout=compact"/>
     </div>
