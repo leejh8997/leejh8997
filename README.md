@@ -53,7 +53,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997"/>
       <!-- GitHub Readme Streak Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997&theme=default" />
-      <br/>
-      <!-- GitHub Activity Graph -->
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=leejh8997&theme=default" />
+      <br/>      
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997&theme=default" />
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=leejh8997&theme=github" />
+        
+        
     </div>
