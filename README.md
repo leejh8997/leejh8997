@@ -50,12 +50,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=leejh8997&show_icons=true&theme=default&cache_seconds=0"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejh8997&layout=compact"/>
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997"/>
       <!-- GitHub Readme Streak Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997&theme=default" />
-      <br/>      
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=leejh8997&theme=default" />
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=leejh8997&theme=github" />
+      
         
         
     </div>
