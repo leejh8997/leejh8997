@@ -41,8 +41,9 @@
 </div>
 <div style="text-align: left;">
     <h2>📝 Projects </h2>
-    <div>🍔<a style="font-size: 25px;" href="https://github.com/Taehun92/Project_Kapture">Kapture</a></div>
-    <div>🥰<a style="font-size: 25px;" href="https://github.com/leejh8997/react_project">ReactGram</a></div>
+    <div>🚌<a style="font-size: 25px;" href="https://github.com/Taehun92/Project_Kapture">Kapture</a></div>
+    <div>🌏<a style="font-size: 25px;" href="https://github.com/leejh8997/react_project">ReactGram</a></div>
+    <div>🍸<a style="font-size: 25px;" href="https://github.com/leejh8997/ARcohol">ARcohol</a></div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
