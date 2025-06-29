@@ -5,14 +5,18 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <li> 저는 항상 성장하는 개발자를 희망합니다. 저는 배우는 것이 즐겁습니다.
+        <li> 신입 개발자 이재형입니다.
+        <li>컴퓨터학과를 전공하고, 현재는 풀스택 개발 교육과정을 수료하며 실무 역량을 쌓아가고 있습니다.
+        <li>새로운 기술을 빠르게 습득하고, 맡은 일에 책임감 있게 임하며,
+        <li>팀원들과의 원활한 커뮤니케이션을 바탕으로 협업해왔습니다.
+        <li>앞으로도 지속적으로 배우고 성장하며, 팀과 함께 발전하는 개발자가 되고자 합니다.
     </div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <div style="margin: ; text-align: left;" "text-align: left;">
         <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white">
         <img src="https://img.shields.io/badge/JSP-007396?style=plastic&logo=java&logoColor=white">
         <br />
@@ -29,7 +33,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
         <br />
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+        <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white">
