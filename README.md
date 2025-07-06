@@ -40,9 +40,9 @@
     </div>
 </div>
 <div style="text-align: left;">
-    <h2>💡 Portfolio </h2>https://www.canva.com/design/DAGsAdzNLjg/XCP1V4AqKuXbHahT9tBHIw/view?utm_content=DAGsAdzNLjg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h309154d25f
+    <h2>💡 Portfolio
     <div>😎<a style="font-size: 25px;" href="https://www.notion.so/Portfolio-2006e1a0959280619b78dd083f38c89a?pvs=4">포트폴리오(notion)</a></div>
-    <div>😎<a style="font-size: 25px;" href="https://www.canva.com/design/DAGsAdzNLjg/XCP1V4AqKuXbHahT9tBHIw/view?utm_content=DAGsAdzNLjg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h309154d25f">포트폴리오(canva)</a></div>
+    <div>😊<a style="font-size: 25px;" href="https://www.canva.com/design/DAGsAdzNLjg/XCP1V4AqKuXbHahT9tBHIw/view?utm_content=DAGsAdzNLjg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h309154d25f">포트폴리오(canva)</a></div>
 </div>
 <div style="text-align: left;">
     <h2>📝 Projects </h2>
